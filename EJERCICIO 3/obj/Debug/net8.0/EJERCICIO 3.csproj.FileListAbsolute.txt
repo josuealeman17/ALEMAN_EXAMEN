@@ -1,0 +1,14 @@
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\bin\Debug\net8.0\EJERCICIO 3.exe
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\bin\Debug\net8.0\EJERCICIO 3.deps.json
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\bin\Debug\net8.0\EJERCICIO 3.runtimeconfig.json
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\bin\Debug\net8.0\EJERCICIO 3.dll
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\bin\Debug\net8.0\EJERCICIO 3.pdb
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\obj\Debug\net8.0\EJERCICIO 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\obj\Debug\net8.0\EJERCICIO 3.AssemblyInfoInputs.cache
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\obj\Debug\net8.0\EJERCICIO 3.AssemblyInfo.cs
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\obj\Debug\net8.0\EJERCICIO 3.csproj.CoreCompileInputs.cache
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\obj\Debug\net8.0\EJERCICIO 3.dll
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\obj\Debug\net8.0\refint\EJERCICIO 3.dll
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\obj\Debug\net8.0\EJERCICIO 3.pdb
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\obj\Debug\net8.0\EJERCICIO 3.genruntimeconfig.cache
+C:\Users\eljos\Documents\ESPE 23-24\ADVANCED WEB\EXAMEN_ALEMAN_JOSUE\EJERCICIO 3\obj\Debug\net8.0\ref\EJERCICIO 3.dll
